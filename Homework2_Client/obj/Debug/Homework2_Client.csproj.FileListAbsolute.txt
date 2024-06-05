@@ -1,0 +1,7 @@
+C:\Users\bozha\source\repos\Homework2_Client\bin\Debug\Homework2_Client.exe.config
+C:\Users\bozha\source\repos\Homework2_Client\bin\Debug\Homework2_Client.exe
+C:\Users\bozha\source\repos\Homework2_Client\bin\Debug\Homework2_Client.pdb
+C:\Users\bozha\source\repos\Homework2_Client\obj\Debug\Homework2_Client.csproj.AssemblyReference.cache
+C:\Users\bozha\source\repos\Homework2_Client\obj\Debug\Homework2_Client.csproj.CoreCompileInputs.cache
+C:\Users\bozha\source\repos\Homework2_Client\obj\Debug\Homework2_Client.exe
+C:\Users\bozha\source\repos\Homework2_Client\obj\Debug\Homework2_Client.pdb

@@ -1,0 +1,7 @@
+C:\Users\bozha\source\repos\Homework2_Server\obj\Debug\Homework2_Server.csproj.AssemblyReference.cache
+C:\Users\bozha\source\repos\Homework2_Server\obj\Debug\Homework2_Server.csproj.CoreCompileInputs.cache
+C:\Users\bozha\source\repos\Homework2_Server\bin\Debug\Homework2_Server.exe.config
+C:\Users\bozha\source\repos\Homework2_Server\bin\Debug\Homework2_Server.exe
+C:\Users\bozha\source\repos\Homework2_Server\bin\Debug\Homework2_Server.pdb
+C:\Users\bozha\source\repos\Homework2_Server\obj\Debug\Homework2_Server.exe
+C:\Users\bozha\source\repos\Homework2_Server\obj\Debug\Homework2_Server.pdb
